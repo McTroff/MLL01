@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>none</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="Music Lending Library">c42716644f1013008ecb8c318110c7f2</menu>
+        <name>Music Lending Library</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_182485_mll</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_182485_mll</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>Martin</sys_created_by>
+        <sys_created_on>2018-02-12 08:57:56</sys_created_on>
+        <sys_id>331712644f1013008ecb8c318110c707</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Martin</sys_updated_by>
+        <sys_updated_on>2018-02-12 08:57:56</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_182485_mll.user" name="x_182485_mll.user">042716644f1013008ecb8c318110c7f5</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="x_182485_mll_recordings" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>10 Inch</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:30:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d433a32c4f9013008ecb8c318110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:30:16</sys_updated_on>
+            <value>10inch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>12 Inch</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:30:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9e33a32c4f9013008ecb8c318110c7db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:30:24</sys_updated_on>
+            <value>12inch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>12 Inch Picture / Coloured</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:30:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3853672c4f9013008ecb8c318110c7a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:30:51</sys_updated_on>
+            <value>12inchpicture</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7 Inch</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:30:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a23232c4f9013008ecb8c318110c73c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:30:07</sys_updated_on>
+            <value>7inch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>7 Inch Picture / Coloured</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:31:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0753e3e84f9013008ecb8c318110c76d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:31:00</sys_updated_on>
+            <value>7inchpicture</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Album</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:28:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6eb26fe84f9013008ecb8c318110c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:28:15</sys_updated_on>
+            <value>album</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C120</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:29:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e13a32c4f9013008ecb8c318110c787</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:29:52</sys_updated_on>
+            <value>c120</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C60</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:29:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d0367a84f9013008ecb8c318110c71b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:29:32</sys_updated_on>
+            <value>c60</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>C90</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:29:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44132fe84f9013008ecb8c318110c781</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:29:42</sys_updated_on>
+            <value>c90</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Double Album</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:28:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6c2232c4f9013008ecb8c318110c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:28:30</sys_updated_on>
+            <value>doublealbum</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EP</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:29:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33e2efe84f9013008ecb8c318110c738</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:29:09</sys_updated_on>
+            <value>ep</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quadruple Album</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:29:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9e2632c4f9013008ecb8c318110c7ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:29:00</sys_updated_on>
+            <value>quadalbum</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sample</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:29:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4af2e3e84f9013008ecb8c318110c7d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:29:18</sys_updated_on>
+            <value>sample</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Single</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:28:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70a2a32c4f9013008ecb8c318110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:28:02</sys_updated_on>
+            <value>single</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Triple Album</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:28:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6dd2632c4f9013008ecb8c318110c7a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:28:43</sys_updated_on>
+            <value>triplealbum</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>x_182485_mll_recordings</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:28:02</sys_created_on>
+            <sys_id>27a26fe84f9013008ecb8c318110c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Music Lending Library" source="x_182485_mll">331712644f1013008ecb8c318110c707</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Music Lending Library">331712644f1013008ecb8c318110c707</sys_scope>
+            <sys_update_name>sys_choice_x_182485_mll_recordings_type</sys_update_name>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:28:02</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

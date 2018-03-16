@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="format" label="Format" language="en" table="x_182485_mll_recordings">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>format</element>
+            <help/>
+            <hint/>
+            <label>Format</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <plural>Formats</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:24:27</sys_created_on>
+            <sys_id>5bd1abe84f9013008ecb8c318110c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Format</sys_name>
+            <sys_package display_value="Music Lending Library" source="x_182485_mll">331712644f1013008ecb8c318110c707</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Music Lending Library">331712644f1013008ecb8c318110c707</sys_scope>
+            <sys_update_name>sys_documentation_x_182485_mll_recordings_format_en</sys_update_name>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:24:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

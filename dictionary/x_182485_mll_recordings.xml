@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Recordings" max_length="40" name="x_182485_mll_recordings" type="collection">
+        <element label="Artist" max_length="32" name="artist" reference="x_182485_mll_artist" type="reference"/>
+        <element label="Cover Art" max_length="100" name="cover_art" type="icon"/>
+        <element choice="1" label="Format" max_length="40" name="format" type="choice">
+            <choice>
+                <element label="Cassette" value="casette"/>
+                <element label="CD" value="cd"/>
+                <element label="Cover Disk" value="coverdisk"/>
+                <element label="Digital" value="digital"/>
+                <element label="Vinyl" value="vinyl"/>
+            </choice>
+        </element>
+        <element label="Recording Title" max_length="80" name="recording_title" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="10 Inch" value="10inch"/>
+                <element label="12 Inch" value="12inch"/>
+                <element label="12 Inch Picture / Coloured" value="12inchpicture"/>
+                <element label="7 Inch" value="7inch"/>
+                <element label="7 Inch Picture / Coloured" value="7inchpicture"/>
+                <element label="Album" value="album"/>
+                <element label="C120" value="c120"/>
+                <element label="C60" value="c60"/>
+                <element label="C90" value="c90"/>
+                <element label="Double Album" value="doublealbum"/>
+                <element label="EP" value="ep"/>
+                <element label="Quadruple Album" value="quadalbum"/>
+                <element label="Sample" value="sample"/>
+                <element label="Single" value="single"/>
+                <element label="Triple Album" value="triplealbum"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="artist"/>
+        </index>
+    </element>
+</database>

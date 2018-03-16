@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Artist" max_length="40" name="x_182485_mll_artist" type="collection">
+        <element label="Artist Name" max_length="80" name="artist_name" type="string"/>
+        <element label="Band Member" max_length="80" name="band_member" type="string"/>
+    </element>
+</database>

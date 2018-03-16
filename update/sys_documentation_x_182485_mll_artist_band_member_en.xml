@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="band_member" label="Band Member" language="en" table="x_182485_mll_artist">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>band_member</element>
+            <help/>
+            <hint/>
+            <label>Band Member</label>
+            <language>en</language>
+            <name>x_182485_mll_artist</name>
+            <plural>Band Members</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:19:21</sys_created_on>
+            <sys_id>68b02fa84f9013008ecb8c318110c7f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Band Member</sys_name>
+            <sys_package display_value="Music Lending Library" source="x_182485_mll">331712644f1013008ecb8c318110c707</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Music Lending Library">331712644f1013008ecb8c318110c707</sys_scope>
+            <sys_update_name>sys_documentation_x_182485_mll_artist_band_member_en</sys_update_name>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:19:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

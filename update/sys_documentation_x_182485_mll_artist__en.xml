@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Artist" language="en" table="x_182485_mll_artist">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Artist</label>
+            <language>en</language>
+            <name>x_182485_mll_artist</name>
+            <plural>Artists</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:12:40</sys_created_on>
+            <sys_id>aa2f9f684f9013008ecb8c318110c7df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Artist</sys_name>
+            <sys_package display_value="Music Lending Library" source="x_182485_mll">331712644f1013008ecb8c318110c707</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Music Lending Library">331712644f1013008ecb8c318110c707</sys_scope>
+            <sys_update_name>sys_documentation_x_182485_mll_artist__en</sys_update_name>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:12:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

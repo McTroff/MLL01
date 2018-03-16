@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="format" table="x_182485_mll_recordings" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cassette</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:26:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cd52abe84f9013008ecb8c318110c77c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:26:30</sys_updated_on>
+            <value>casette</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CD</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:25:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d1267a84f9013008ecb8c318110c7e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:25:27</sys_updated_on>
+            <value>cd</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cover Disk</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:25:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f2223e84f9013008ecb8c318110c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:25:50</sys_updated_on>
+            <value>coverdisk</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Digital</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:26:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd426fa84f9013008ecb8c318110c772</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:26:16</sys_updated_on>
+            <value>digital</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vinyl</label>
+            <language>en</language>
+            <name>x_182485_mll_recordings</name>
+            <sequence/>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:25:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35e1ebe84f9013008ecb8c318110c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:25:16</sys_updated_on>
+            <value>vinyl</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>format</element>
+            <name>x_182485_mll_recordings</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-02-12 14:25:16</sys_created_on>
+            <sys_id>cb02e3e84f9013008ecb8c318110c77e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>format</sys_name>
+            <sys_package display_value="Music Lending Library" source="x_182485_mll">331712644f1013008ecb8c318110c707</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Music Lending Library">331712644f1013008ecb8c318110c707</sys_scope>
+            <sys_update_name>sys_choice_x_182485_mll_recordings_format</sys_update_name>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-02-12 14:25:16</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
