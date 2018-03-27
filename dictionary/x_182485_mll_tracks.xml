@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Tracks" max_length="40" name="x_182485_mll_tracks" type="collection">
+        <element label="Contributing artist" max_length="32" name="contributing_artist" reference="x_182485_mll_artist" type="reference"/>
+        <element label="Recording" max_length="32" name="recording" reference="x_182485_mll_recordings" type="reference"/>
+        <element label="Track number" max_length="40" name="track_number" type="integer"/>
+        <element label="Track title" max_length="80" name="track_title" type="string"/>
+        <index name="index">
+            <element name="contributing_artist"/>
+        </index>
+        <index name="index2">
+            <element name="recording"/>
+        </index>
+    </element>
+</database>

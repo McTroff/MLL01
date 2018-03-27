@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Loans" max_length="40" name="x_182485_mll_loans" type="collection">
+        <element label="Borrowed by" max_length="32" name="borrowed_by" reference="sys_user" type="reference"/>
+        <element label="Date Loaned" max_length="40" name="date_loaned" type="glide_date"/>
+        <element label="Date Returned" max_length="40" name="date_returned" type="glide_date"/>
+        <element label="Recording" max_length="32" name="recording" reference="x_182485_mll_recordings" type="reference"/>
+        <index name="index">
+            <element name="borrowed_by"/>
+        </index>
+        <index name="index2">
+            <element name="recording"/>
+        </index>
+    </element>
+</database>

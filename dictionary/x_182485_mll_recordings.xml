@@ -2,7 +2,7 @@
 <database>
     <element label="Recordings" max_length="40" name="x_182485_mll_recordings" type="collection">
         <element label="Artist" max_length="32" name="artist" reference="x_182485_mll_artist" type="reference"/>
-        <element label="Cover Art" max_length="100" name="cover_art" type="icon"/>
+        <element label="Cover Art" max_length="100" name="cover_art" type="user_image"/>
         <element choice="1" label="Format" max_length="40" name="format" type="choice">
             <choice>
                 <element label="Cassette" value="casette"/>

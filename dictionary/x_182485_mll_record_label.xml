@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Record label" max_length="40" name="x_182485_mll_record_label" type="collection">
+        <element label="Founded" max_length="40" name="founded" type="glide_date"/>
+        <element label="Label Image" max_length="40" name="label_image" type="user_image"/>
+        <element label="Label name" max_length="80" name="label_name" type="string"/>
+        <element label="Main Genres" max_length="120" name="main_genres" type="string"/>
+    </element>
+</database>

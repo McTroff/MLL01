@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Members" section_id="95c74e2e4f0153008ecb8c318110c7c7" sys_domain="global" table="x_182485_mll_artist" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>band_member</element>
+            <position>0</position>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-03-27 19:45:48</sys_created_on>
+            <sys_id>21c74e2e4f0153008ecb8c318110c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Members" display_value="Members" name="x_182485_mll_artist" sys_domain="global" view="Default view">95c74e2e4f0153008ecb8c318110c7c7</sys_ui_section>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-03-27 19:45:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>band_member_2</element>
+            <position>1</position>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-03-27 19:45:48</sys_created_on>
+            <sys_id>a1c74e2e4f0153008ecb8c318110c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Members" display_value="Members" name="x_182485_mll_artist" sys_domain="global" view="Default view">95c74e2e4f0153008ecb8c318110c7c7</sys_ui_section>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-03-27 19:45:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>band_member_3</element>
+            <position>2</position>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-03-27 19:45:48</sys_created_on>
+            <sys_id>25c74e2e4f0153008ecb8c318110c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Members" display_value="Members" name="x_182485_mll_artist" sys_domain="global" view="Default view">95c74e2e4f0153008ecb8c318110c7c7</sys_ui_section>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-03-27 19:45:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-03-27 19:45:48</sys_created_on>
+            <sys_id>a5c74e2e4f0153008ecb8c318110c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Members" display_value="Members" name="x_182485_mll_artist" sys_domain="global" view="Default view">95c74e2e4f0153008ecb8c318110c7c7</sys_ui_section>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-03-27 19:45:48</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>band_member_4</element>
+            <position>4</position>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-03-27 19:45:48</sys_created_on>
+            <sys_id>29c74e2e4f0153008ecb8c318110c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Members" display_value="Members" name="x_182485_mll_artist" sys_domain="global" view="Default view">95c74e2e4f0153008ecb8c318110c7c7</sys_ui_section>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-03-27 19:45:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>band_member_5</element>
+            <position>5</position>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-03-27 19:45:48</sys_created_on>
+            <sys_id>a9c74e2e4f0153008ecb8c318110c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Members" display_value="Members" name="x_182485_mll_artist" sys_domain="global" view="Default view">95c74e2e4f0153008ecb8c318110c7c7</sys_ui_section>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-03-27 19:45:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>band_member_6</element>
+            <position>6</position>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-03-27 19:45:48</sys_created_on>
+            <sys_id>2dc74e2e4f0153008ecb8c318110c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Members" display_value="Members" name="x_182485_mll_artist" sys_domain="global" view="Default view">95c74e2e4f0153008ecb8c318110c7c7</sys_ui_section>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-03-27 19:45:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Members</caption>
+            <header>false</header>
+            <name>x_182485_mll_artist</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Martin</sys_created_by>
+            <sys_created_on>2018-03-27 19:45:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95c74e2e4f0153008ecb8c318110c7c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Members</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Music Lending Library" source="x_182485_mll">331712644f1013008ecb8c318110c707</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Music Lending Library">331712644f1013008ecb8c318110c707</sys_scope>
+            <sys_update_name>sys_ui_section_95c74e2e4f0153008ecb8c318110c7c7</sys_update_name>
+            <sys_updated_by>Martin</sys_updated_by>
+            <sys_updated_on>2018-03-27 19:45:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

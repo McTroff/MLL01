@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="cover_art" table="x_182485_mll_recordings">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="band_member_5" table="x_182485_mll_artist">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,7 +15,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Cover Art</column_label>
+        <column_label>Band Member 5</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,15 +28,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>cover_art</element>
+        <element>band_member_5</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">user_image</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>100</max_length>
-        <name>x_182485_mll_recordings</name>
+        <max_length>80</max_length>
+        <name>x_182485_mll_artist</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -53,16 +53,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Martin</sys_created_by>
-        <sys_created_on>2018-02-13 08:58:38</sys_created_on>
-        <sys_id>edc0ef344f1013008ecb8c318110c7d3</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Cover Art</sys_name>
+        <sys_created_on>2018-03-27 18:13:39</sys_created_on>
+        <sys_id>4482f9224f0153008ecb8c318110c712</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Band Member 5</sys_name>
         <sys_package display_value="Music Lending Library" source="x_182485_mll">331712644f1013008ecb8c318110c707</sys_package>
         <sys_policy/>
         <sys_scope display_value="Music Lending Library">331712644f1013008ecb8c318110c707</sys_scope>
-        <sys_update_name>sys_dictionary_x_182485_mll_recordings_cover_art</sys_update_name>
+        <sys_update_name>sys_dictionary_x_182485_mll_artist_band_member_5</sys_update_name>
         <sys_updated_by>Martin</sys_updated_by>
-        <sys_updated_on>2018-03-27 18:42:38</sys_updated_on>
+        <sys_updated_on>2018-03-27 18:13:39</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
